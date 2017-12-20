@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PermutationsTEST
+comment0.text=\r\n\ This\ method\ uses\ java.util.Collections\ to\ shuffle\ original\ array\ and\ prints\ it\ out.\ It\ also\ calculates\ the\ sum\ of\ the\ first\ and\ last\r\n\ elements\ of\ the\ array\ and\ prints\ it\ out.\ The\ method\ is\ executed\ 10\ times\ in\ the\ main\ method.\r\n\ \r\n\ We\ learn\ to\ use\ ArrayLists\ in\ this\ Lab\r\n\ \r\n\ LAB\ 20.2\r\n\r\n\ @author\ (Aarohi\ Zade)\r\n\ @version\ (12/16/2017)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

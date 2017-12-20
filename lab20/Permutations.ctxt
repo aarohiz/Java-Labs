@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Permutations
+comment0.text=\r\n\ This\ method\ uses\ java.util.Collections\ to\ shuffle\ original\ array\ and\ prints\ it\ out.\ It\ also\ calculates\ the\ sum\ of\ the\ first\ and\ last\r\n\ elements\ of\ the\ array\ and\ prints\ it\ out.\ The\ method\ is\ executed\ 10\ times\ in\ the\ main\ method.\r\n\ \r\n\ We\ learn\ to\ use\ ArrayLists\ in\ this\ Lab\r\n\ \r\n\ LAB\ 20.2\r\n\r\n\ @author\ (Aarohi\ Zade)\r\n\ @version\ (12/16/2017)\r\n
+comment1.params=orig
+comment1.target=void\ printArray(java.util.ArrayList)
+comment1.text=\r\n\ This\ was\ a\ method\ I\ used\ to\ check\ the\ values\ at\ each\ position\ of\ the\ array.\ It\ does\ not\ get\ called\ in\ PermutationsTEST,\ however,\r\n\ it\ is\ merely\ for\ reference.\r\n
+comment2.params=orig
+comment2.target=void\ nextPermutation(java.util.ArrayList)
+comment2.text=\r\n\ This\ method\ makes\ a\ new\ ArrayList,\ perm,\ which\ stores\ the\ new\ values.\ It\ calls\ Math.random\ and\ adds\ them\ to\ rand.\ It\ also\ calcu-\r\n\ lates\ the\ sum\ of\ both\ the\ first\ and\ last\ elements\ of\ the\ new\ ArrayList\ and\ prints\ them\ out.\ This\ method\ is\ for\ reference\ and\ does\r\n\ not\ get\ called\ in\ PermutationsTEST\r\n
+comment3.params=orig
+comment3.target=void\ nextPermutations(java.util.ArrayList)
+comment3.text=\r\n\ This\ method\ uses\ java.util.Collections\ to\ shuffle\ original\ array\ and\ prints\ it\ out.\ It\ also\ calculates\ the\ sum\ of\ the\ first\ and\ last\r\n\ elements\ of\ the\ array\ and\ prints\ it\ out.\r\n
+numComments=4
