@@ -1,0 +1,71 @@
+
+/**
+ * Write a description of class fibonnaci here.
+ *
+ * @author (your name)
+ * @version (a version number or a date)
+ */
+public class fibonnaci
+{
+    public static void main (String [] args)
+    {
+        int n;
+        public int fib(int n)
+    }
+}
+
+
+
+#BlueJ package file
+editor.fx.0.height=739
+editor.fx.0.width=816
+editor.fx.0.x=565
+editor.fx.0.y=2
+objectbench.height=98
+objectbench.width=451
+package.divider.horizontal=0.599476439790576
+package.divider.vertical=0.79
+package.editor.height=388
+package.editor.width=670
+package.editor.x=593
+package.editor.y=155
+package.frame.height=600
+package.frame.width=800
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+project.charset=UTF-8
+readme.height=58
+readme.name=@README
+readme.width=47
+readme.x=10
+readme.y=10
+target1.height=50
+target1.name=fibonnaci
+target1.showInterface=false
+target1.type=ClassTarget
+target1.typeParameters=
+target1.width=80
+target1.x=70
+target1.y=10
+
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE:
+PURPOSE OF PROJECT:
+VERSION or DATE:
+HOW TO START THIS PROJECT:
+AUTHORS:
+USER INSTRUCTIONS:
+
+#BlueJ class context
+comment0.target=fibonnaci
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ fibonnaci\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
